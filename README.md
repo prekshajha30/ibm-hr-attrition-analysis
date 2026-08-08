@@ -12,7 +12,7 @@ on a representative sample.
 - **MySQL** — querying practice (40-row sample)
 
 ## Dashboard (Full Dataset — 1,470 records)
-🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/authoring/IBMHRAttritionAnalysis_17862102796690/IBMHRAttritionAnalysis#1)
+🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/preksha.jha6923/viz/IBMHRAttritionAnalysis_17862102796690/IBMHRAttritionAnalysis)
 
 ### Key Insights (from Tableau, full dataset)
 - **Department**: Research & Development has the highest attrition in 
