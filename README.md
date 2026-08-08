@@ -40,5 +40,5 @@ The underlying patterns — lower income and shorter tenure correlating with
 attrition — hold in both.
 
 ## Dataset Source
-[IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets) 
+[IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
 — Kaggle
